@@ -1,5 +1,8 @@
 // Ejercicio complementario Java numero 1  
-package Herencia2;
+// Solicitar por consola un nombre asignarlo a una variable e imprimirlo como "Hola Usuario"
+// Realizado con objetos, metodos y un ciclo do while 
+
+package Complementarios_1;
 import java.util.Scanner; 
 
 
