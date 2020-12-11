@@ -1,6 +1,7 @@
 
 // Ejercicio numero 5 _ Java
 
+package Package1;
 import java.util.Scanner; 
 
 public class ejercicio_5 {

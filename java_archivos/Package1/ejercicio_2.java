@@ -1,6 +1,7 @@
 
 // Ejercicio numero 2 _ Java
 
+package Package1;
 import java.util.*; 
 
 public class ejercicio_2 {
